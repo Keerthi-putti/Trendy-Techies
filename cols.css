@@ -1,0 +1,9 @@
+#xrow:after{
+    content: "";
+    display: table;
+    clear:both;
+}
+#yrow{
+    float:left;
+   width: 25%;
+}
